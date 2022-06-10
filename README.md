@@ -1,4 +1,4 @@
-## 👋👋👋 Hi, my names is Cezary - on github known as MagiCzarek.
+## 👋👋👋 Hi, my name is Cezary - on github known as MagiCzarek.
 ### I am student of computer science on Polish-Japanese Academy of Information Technology.
 - 🐍 learning everything connected with Python
 - 🎮 esport enjoyer, also player 
